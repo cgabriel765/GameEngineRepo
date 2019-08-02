@@ -1,0 +1,5 @@
+*.opendb
+*.db
+Hazel/Hazel.vcxproj
+Hazel/Hazel.vcxproj.filters
+Hazel/Hazel.vcxproj.user
